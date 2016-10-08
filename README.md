@@ -40,4 +40,4 @@ Here, we provide training materials for a course covering an example solution of
 *  Labs
 *  Hack
 *  Decks
-*  [Wiki](/wiki)
+*  [Wiki](https://github.com/michhar/data-pipeline-education/wiki)
