@@ -2,7 +2,9 @@
 
 1.  Azure account linked to a Microsoft Account, e.g. <yourname>@outlook.com or your work email, (HIGHLY recommended it be your **organizational/work email**) - please ensure you have done so by signing into the azure portal:  https://portal.azure.com.
 
-2.  Power BI online requires an **organizational/work email** (sign-in or sign-up [here](https://powerbi.microsoft.com/en-us/landing/signin/)).  If you only have a Microsoft Account (not organizational/work related), you can use the Power BI Desktop application (download [here](https://powerbi.microsoft.com/en-us/desktop/)), but this course will be speaking mainly about the online version.
+2.  Power BI online account - Power BI online requires an **organizational/work email** (sign-in or sign-up [here](https://powerbi.microsoft.com/en-us/landing/signin/)).  If you only have a Microsoft Account (not organizational/work related), you can use the Power BI Desktop application (download [here](https://powerbi.microsoft.com/en-us/desktop/)), but this course will be speaking mainly about the online version.
+
+3.  Visual Studio 2015 Desktop (Community Edition is fine) - Please ensure you install with SQL Server Data Tools or download separately [here](https://msdn.microsoft.com/en-us/library/mt204009.aspx).
 
 ## Pre-Work for Instructor-Led Class
 
