@@ -1,7 +1,22 @@
-# IoT on Azure Training Course Materials
-Here, we provide training materials for a course covering a solution around IoT on Azure.
+# *Predictive Analytics for IoT* Training Course Materials
+Here, we provide training materials for a course covering an example solution of IoT on Azure, Microsoft's cloud and cloud offerings.
 
-## CIS Components Covered
+## How to Use this Site
+
+*This site is intended to be the main resource to an instructor-led course, but anyone is welcome to learn here.  The intent is to make this site self-guided and it is getting there.*
+
+**For Instructor-Led:**
+* Complete the [setup instructions](/SETUP.md)
+* Download the slide deck(s) in the [/Decks](/Decks] folder.
+* Follow along with the classroom instructions and lectures.
+* When there is a lab indicated, you may find the lab instructions in the [/Labs](/Labs) folder.
+
+
+**For Self-Study:**
+* Go to [/Decks](/Decks) folder and follow along with the slides.
+* When there is a lab indicated, you may find the lab instructions in the [/Labs](/Labs) folder.
+
+## Microsoft's Cortana Intelligence Suite Components Covered
 
 **Data Source and Ingestion**
 
@@ -25,4 +40,4 @@ Here, we provide training materials for a course covering a solution around IoT 
 *  Labs
 *  Hack
 *  Decks
-*  Wiki
+*  [Wiki](/wiki)
