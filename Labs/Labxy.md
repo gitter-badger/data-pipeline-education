@@ -1,0 +1,44 @@
+**Modify the provided SQL statement below to...** (this SQL is the same as what is given in the SA query in the solution)
+
+```sql
+CREATE TABLE InputEventHub (
+	utcTimeStamp datetime,
+	PTID bigint,
+	Load float
+); 
+
+CREATE TABLE InputBlobRefData (
+	PTID bigint,   
+	Name nvarchar(max),   
+	Latitude float,   
+	Longitude float
+); 
+
+SELECT 
+	a.utcTimeStamp as Time, 
+	b.Name as Region, 
+	a.PTID, 
+	b.Latitude, 
+	b.Longitude, 
+	a.Load as Demand 
+INTO 
+	outputPBI 
+FROM (
+	SELECT 
+		utcTimeStamp, 
+		PTID, 
+		Load 
+	FROM 
+		InputEventHub
+	) 
+a join (
+	SELECT 
+		PTID, 
+		Name, 
+		Latitude, 
+		Longitude 
+	FROM 
+		InputBlobRefData
+) 
+b on a.PTID=b.PTID;
+```
