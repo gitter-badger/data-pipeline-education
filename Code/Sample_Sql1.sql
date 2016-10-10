@@ -16,3 +16,6 @@ select <column_a>, <column_b>,count(*) from <tablename> group by <column_a>, <co
 # Get the distribution for numerical columns
 
 select <column_name>, count(*) from <tablename> group by <column_name>
+
+
+# Take from: https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-explore-data-sql-server/
