@@ -10,6 +10,8 @@
 
 2.  Which is slow-moving data or data-at-rest and which is fast-moving data?
 
+```
+Answers below.
 
 
 
@@ -24,6 +26,7 @@
 
 
 
+```
 
 ## Answers
 
