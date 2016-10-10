@@ -1,7 +1,8 @@
 ## ASA PBI setup
 * ASA job:  `<YourSolutionName>sajob`
-* output alias:  `outputpbi`
+* output alias:  `PBIoutput`
 * dataset name:  `EnergyDemandData`
+* PBI report name:  `EnergyStreamDataReport` (also use for dashboard name)
 * make sure Web jobs are running and inputblob has a path pattern specified (in classic portal)
 
 ## Setup Hot Path Dashboard
@@ -31,7 +32,8 @@ Create the "Demand by Timestamp" tile:
 *  Create other dashboard tiles based on appropriate datasets. The final dashboard view is shown below. 
 
 
-```whitespace
+```
+
 
 
 
