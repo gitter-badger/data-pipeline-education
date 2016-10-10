@@ -10,9 +10,11 @@
 
 4.  Check Azure credits by visiting the Management Portal at http://manage.windowsazure.com.
 
+5.  You will need to be *"whitelisted"* for the Cortana Intelligence Quick Starts site if taking this course in the instructor-led format.  Please send the Work or School Account that you used for the Azure Pass from above to your registration contact for approval.
+
 ## Pre-Work for Instructor-Led Class
 
-After, you have ensured your Azure account has the Azure credits given in the Passes for the Instructor Led format or enough for 4 days of use (Standard tiers for:  App Services, Streaming Analytics, Event Hubs, SQL DB, Data Factory, SQL Server) plesae do the following:
+After, you have ensured your Azure account has the Azure credits given in the Passes for the instructor-led format or enough for 4 days of use (Standard tiers for:  App Services, Streaming Analytics, Event Hubs, SQL DB, Data Factory, SQL Server) AND that you have been "whitelisted" to view plesae do the following:
 
 1.  Make sure you can access https://start.cortanaintelligence.com.  When there, ensure that you can:
   * Navigate to "DEPLOYMENTS"
