@@ -13,7 +13,7 @@ The following steps will guide you how to visualize real time data output from S
 You will need to follow the instructions in Azure Stream Analytics & Power BI: A real-time analytics dashboard for real-time visibility of streaming data to set up the output of your Azure Stream Analytics job as your Power BI dashboard.
 
 1.  Locate the stream analytics job in your Azure management portal. The name of the job should be: **`<YourSolutionName>sajob`** (e.g. `mhenergysajob`)
-2.  Add a PowerBI output for the ASA job. Set the Output Alias as **`outputpbi`**. Set your Dataset Name and Table Name as **`EnergyStreamData`**. Once you have added the output, click **Start** at the bottom of the page to start the Stream Analytics job. You should get a confirmation message.
+2.  Add a PowerBI output for the ASA job. Set the Output Alias as **`PBIoutput`**. Set your Dataset Name and Table Name as **`EnergyStreamData`**. Once you have added the output, click **Start** at the bottom of the page to start the Stream Analytics job. You should get a confirmation message.
 
 ### Create a dashboard in Power BI online:
 
@@ -29,3 +29,31 @@ Create the "Demand by Timestamp" tile:
 *  Click “Pin Visual” icon on top right corner of this line chart, a "Pin to Dashboard" window may show up for you to choose a dashboard. Please select or fill in with **`EnergyStreamDataReport`** (same name as report), then click "Pin".
 *  Hover the mouse over this tile on the dashboard, click "edit" icon on top right corner to change its title as "Demand by Timestamp" with no subtitle or something descriptive.
 *  Create other dashboard tiles based on appropriate datasets. The final dashboard view is shown below. 
+
+
+```whitespace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+`outputpbi` -> `PBIoutput` like [this](/Code/ASA_query.sql)
