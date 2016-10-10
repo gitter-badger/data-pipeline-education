@@ -7,3 +7,12 @@
 * [Guide on GitHub:  How to modify the Predictive Maintenance solution template](https://github.com/Azure/CIS-Extension-IoT-Solution-Predictive-Maintenance)
 * [Article:  Vehicle Telemetry solution architecture, deep dive and Power BI dashboard setup](https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-playbook-vehicle-telemetry/)
 * [Video:  Vehicle Telemetry](https://channel9.msdn.com/blogs/Cloud-and-Enterprise-Premium/Real-time-and-Predictive-Insights-on-Vehicle-Health-and-Driving-Behavior-Pattern-Using-Cortana-Analy)
+
+## Resources on Web Jobs
+
+* [Web Jobs resources page from Azure Docs](https://azure.microsoft.com/en-us/documentation/articles/websites-webjobs-resources/)
+
+## Data Science
+
+* [Team Data Science Process](https://azure.microsoft.com/en-us/documentation/articles/data-science-process-overview/) - provides a systematic approach to building intelligent applications that enables teams of data scientists to collaborate effectively over the full lifecycle of activities needed to turn these applications into products
+* [Walk-Throughs in the context of the Team Data Science Process](https://azure.microsoft.com/en-us/documentation/articles/data-science-process-walkthroughs/)

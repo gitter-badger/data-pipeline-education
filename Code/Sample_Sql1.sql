@@ -1,21 +1,21 @@
-## Pre-Requisites for All
+# Explore SQL data with SQL scripts
+# Here are a few sample SQL scripts that can be used to explore data stores in SQL Server.
 
-1.  Azure account linked to a Microsoft Account, e.g. <yourname>@outlook.com or your work email, (HIGHLY recommended it be your **organizational/work email**) - please ensure you have done so by signing into the azure portal:  https://portal.azure.com.
+# Get the count of observations per day
 
-2.  Power BI online account - Power BI online requires an **organizational/work email** (sign-in or sign-up [here](https://powerbi.microsoft.com/en-us/landing/signin/)).  If you only have a Microsoft Account (not organizational/work related), you can use the Power BI Desktop application (download [here](https://powerbi.microsoft.com/en-us/desktop/)), but this course will be speaking mainly about the online version.
+SELECT CONVERT(date, <date_columnname>) as date, count(*) as c from <tablename> group by CONVERT(date, <date_columnname>)
 
-3.  Visual Studio 2015 Desktop (Community Edition is fine) - Please ensure you install with SQL Server Data Tools or download separately [here](https://msdn.microsoft.com/en-us/library/mt204009.aspx).
+# Get the levels in a categorical column
 
-## Pre-Work for Instructor-Led Class
+select distinct <column_name> from <databasename>
 
-1.  Check azure credits
+# Get the number of levels in combination of two categorical columns
 
-2.  Make sure you can access https://start.cortanaintelligence.com.  When there, ensure that you can:
-  * Navigate to "DEPLOYMENTS"
-  * Click on "+New" button in upper right corner
-  * See the small "More" link at the bottom left
-  * After clicking on "More", ensure you can see the "Energy Demand Forecasting" solution template card (about 1/2 of the way down the page)
+select <column_a>, <column_b>,count(*) from <tablename> group by <column_a>, <column_b>
 
-![Solution Template Card](imgs/solution_gallery_snapshot.PNG)
+# Get the distribution for numerical columns
 
-Congratulations, you are ready to take this course!
+select <column_name>, count(*) from <tablename> group by <column_name>
+
+
+# Take from: https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-explore-data-sql-server/
