@@ -20,7 +20,7 @@ Here, we provide training materials for a course covering an example solution of
 
 **Data Source and Ingestion**
 
-1.  *Azure Web Jobs* - scrapes data from a streaming data source and shuttled to the Event Hub.
+1.  *Azure Web Jobs* - scrapes data from a streaming data source and shuttles it to the Event Hub
 1.  *Azure Event Hub* - receives the raw data from the Web Job
 
 **Data Preparation and Analysis**
@@ -33,7 +33,7 @@ Here, we provide training materials for a course covering an example solution of
 **Data Publishing and Consumption**
 
 6.  *Azure SQL Database* - stores the results of the Azure Machine Learning service
-7.  *Power BI* - dashboarding service containing aggregations provided by Azure Stream Analytics (data in motion) and Azure Machine Learning service results stored in Azure SQL Database (data at rest).
+7.  *Power BI* - dashboarding service containing aggregations provided by Azure Stream Analytics (data in motion) and Azure Machine Learning service results stored in Azure SQL Database (data at rest)
 
 ## Structure of this Repository Site
 *  Labs
