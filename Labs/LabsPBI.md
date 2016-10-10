@@ -1,7 +1,7 @@
 ## ASA PBI setup
-* ASA job:  <YourSolutionName>sajob
-* output alias:  outputpbi
-* dataset name:  EnergyDemandData
+* ASA job:  `<YourSolutionName>sajob`
+* output alias:  `outputpbi`
+* dataset name:  `EnergyDemandData`
 * make sure Web jobs are running and inputblob has a path pattern specified (in classic portal)
 
 ## Setup Hot Path Dashboard
