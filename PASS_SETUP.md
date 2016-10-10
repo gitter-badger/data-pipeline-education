@@ -3,7 +3,7 @@
 Please find the details of the Azure Pass codes and instructions on how to access given below.
 
 1.	Please use the passcode assigned to your name given after registration. Each passcode is a value of $100 and is valid for a month from the date of retrieving it.
-2.	Each student will need a Work or School Account linked to Microsoft's cloud services (or sign up for a trial Office 365 Account [here](https://github.com/michhar/data-pipeline-education/blob/master)).  Please redeem the Azure Pass codes with this Work or School Account.    Note, if you use a Microsoft Account (previously Windows LiveID) to retrieve these Azure pass codes, you may have to use or create a separate account to sign up for Power BI online (will be needed in this training).
+2.	Each student will need a Work or School Account linked to Microsoft's cloud services (or sign up for a trial Office 365 Account [here](https://support.office.com/en-us/article/Sign-up-for-a-free-Office-365-for-business-trial-f340d012-ad0f-4b13-b539-8b160f3e9644?ui=en-US&rs=en-US&ad=US)).  Please redeem the Azure Pass codes with this Work or School Account.    Note, if you use a Microsoft Account (previously Windows LiveID) to retrieve these Azure pass codes, you may have to use or create a separate account to sign up for Power BI online (will be needed in this training).
 4.	Follow the instructions on how to redeem your pass code and how to activate your subscription using the tutorial given under this link https://www.microsoftazurepass.com/howto.  You will check that it worked by visiting the Management Portal at http://manage.windowsazure.com.
 5.	Also, please make sure using this subscription you are able to login to the Azure Portal at https://portal.azure.com.
 
