@@ -6,15 +6,14 @@ Here, we provide training materials for a course covering an example solution of
 *This site is intended to be the main resource to an instructor-led course, but anyone is welcome to learn here.  The intent is to make this site self-guided and it is getting there.*
 
 **For Instructor-Led:**
-* Complete the [setup instructions](/SETUP.md)
-* Download the slide deck(s) in the [/Decks](/Decks] folder.
-* Follow along with the classroom instructions and lectures.
-* When there is a lab indicated, you may find the lab instructions in the [/Labs](/Labs) folder.
+* Complete the [setup instructions](/PREREQUISITES.md)
+* Follow along with the classroom instructions and training sessions.
+* When there is a lab indicated, you may find the lab instructions in the Labs (COMING SOON) folder.
 
 
 **For Self-Study:**
-* Go to [/Decks](/Decks) folder and follow along with the slides.
-* When there is a lab indicated, you may find the lab instructions in the [/Labs](/Labs) folder.
+* Go to Decks (COMING SOON) folder and follow along with the slides.
+* When there is a lab indicated, you may find the lab instructions in the Labs (COMING SOON) folder.
 
 ## Microsoft's Cortana Intelligence Suite Components Covered
 
