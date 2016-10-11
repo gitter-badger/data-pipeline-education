@@ -1,6 +1,6 @@
 ## Pre-Work for Instructor-Led Class
 
-After, you have ensured your Azure account has the Azure credits given in the Passes for the instructor-led format or enough for 4 days of use (Standard tiers for:  App Services, Streaming Analytics, Event Hubs, SQL DB, Data Factory, SQL Server) AND that you have been "whitelisted" (instructions found [here])(PREREQUISITES.md) plesae do the following:
+After, you have ensured your Azure account has the Azure credits given in the Passes for the instructor-led format or enough for 4 days of use (Standard tiers for:  App Services, Streaming Analytics, Event Hubs, SQL DB, Data Factory, SQL Server) AND that you have been "whitelisted" (instructions found [here](PREREQUISITES.md)) plesae do the following:
 
 1.  Make sure you can access https://start.cortanaintelligence.com.  When there, ensure that you can:
   * Navigate to "DEPLOYMENTS"
