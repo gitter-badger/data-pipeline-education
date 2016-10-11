@@ -9,7 +9,7 @@ Please find the details of the Azure Pass codes and instructions on how to acces
 
 IMPORTANT NOTE: Please **switch off** any Azure services that you used to run the hands-on-labs to make sure you save your remaining credit on the subscription for further use.
 
-If I go to https://account.windowsazure.com and ACCOUNT CENTER, I see:
+If I go to https://account.windowsazure.com and click on ACCOUNT CENTER, I see:
 
 ![my subscriptions](imgs/azure_pass5.PNG)
 
