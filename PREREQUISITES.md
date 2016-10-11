@@ -6,7 +6,9 @@
 
 3.  Visual Studio 2015 Desktop (Community Edition is fine, download [here](https://www.visualstudio.com/vs/community/)) - Please ensure you install with:
   * SQL Server Data Tools or download separately [here](https://msdn.microsoft.com/en-us/library/mt204009.aspx).
-  * R Tools for Visual Studio or download separately [here](https://www.visualstudio.com/vs/rtvs/)
+  * R Tools for Visual Studio - will need to download separately [here](https://www.visualstudio.com/vs/rtvs/)
+
+4.  GitHub Desktop (optional, but recommended) - can download [here](https://desktop.github.com/)
 
 4.  Check Azure credits by visiting the account page at https://account.windowsazure.com/Subscriptions and click on the subscription to check the credit status.
 
