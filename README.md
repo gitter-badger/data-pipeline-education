@@ -1,4 +1,6 @@
 # *Predictive Analytics for IoT* Training Course Materials
+
+[![Join the chat at https://gitter.im/iotedu-forum/Lobby](https://badges.gitter.im/iotedu-forum/Lobby.svg)](https://gitter.im/iotedu-forum/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Here, we provide training materials for a course covering an example solution of IoT on Azure, Microsoft's cloud and cloud offerings.
 
 ## How to Use this Site
